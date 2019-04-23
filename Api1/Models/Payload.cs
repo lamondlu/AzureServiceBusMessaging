@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Api1.Models
+{
+    public class Payload
+    {
+        public int Id { get; set; }
+
+        public int Goals { get; set; }
+
+        public string Name { get; set; }
+    }
+}
