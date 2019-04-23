@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api1", "Api1\Api1.csproj", "{E5CAAD89-BB10-41E2-975F-1EF045B89D95}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api2", "Api2\Api2.csproj", "{DF48B935-2489-4CBB-A839-7E28E4B9206A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceBusMessaging", "ServiceBusMessaging\ServiceBusMessaging.csproj", "{7591109F-8F9C-4EA7-A0F3-A6E23259D748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5CAAD89-BB10-41E2-975F-1EF045B89D95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5CAAD89-BB10-41E2-975F-1EF045B89D95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5CAAD89-BB10-41E2-975F-1EF045B89D95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5CAAD89-BB10-41E2-975F-1EF045B89D95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF48B935-2489-4CBB-A839-7E28E4B9206A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF48B935-2489-4CBB-A839-7E28E4B9206A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF48B935-2489-4CBB-A839-7E28E4B9206A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF48B935-2489-4CBB-A839-7E28E4B9206A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7591109F-8F9C-4EA7-A0F3-A6E23259D748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7591109F-8F9C-4EA7-A0F3-A6E23259D748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7591109F-8F9C-4EA7-A0F3-A6E23259D748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7591109F-8F9C-4EA7-A0F3-A6E23259D748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2B72DF5-F3D6-4B6B-BADE-A2450D328DA0}
+	EndGlobalSection
+EndGlobal
